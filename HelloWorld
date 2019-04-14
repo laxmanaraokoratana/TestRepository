@@ -1,10 +1,22 @@
 public class Test {
+
+public class Alien(){
+public void Code(){
+      
+      System.out.println("Hi i started coding as alien");
+
+      }  
+
+   }
  
  public staic void main(String[] args){
  
- System.out.pritln("Hello World");
+    System.out.pritln("Hello World");
+    
+    Alien obj = new Alien();
+    obj.code();
  
- }
+  }
  
 
 }
